@@ -1,5 +1,5 @@
 # Calendario
-- Se realiza calendario para practicar los conocimiento adquiridos de CSSGRID
+- Se realiza calendario para practicar los conocimiento adquiridos de CSS - GRID
 
 ---
 <a href="https://schedulepractica.netlify.app/">Ver WebSite</a>
